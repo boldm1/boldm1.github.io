@@ -4,14 +4,14 @@ My research interests include **large-scale combinatorial optimisation**, **robu
 
 
 ## Experience
-- PhD Researcher, Sellafield Ltd, 2018-Present
-- Graduate Teaching Assistant, Lancaster University, 2018-Present
-- Global Employer Services Intern, Deloitte, 2017
+- **PhD Researcher**, Sellafield Ltd, 2018-Present
+- **Graduate Teaching Assistant**, Lancaster University, 2018-Present
+- **Global Employer Services Intern**, Deloitte, 2017
 
 ## Education
-- PhD in Statistics and Operational Research, Lancaster University, 2021
-- MRes in Statistics and Operational Research, Lancaster University, 2018
-- BSc in Mathematics, University of Birmingham, 2017.
+- **PhD in Statistics and Operational Research**, Lancaster University, 2021
+- **MRes in Statistics and Operational Research**, Lancaster University, 2018
+- **BSc in Mathematics, University of Birmingham**, 2017.
 
 ## Publications & Talks
 - [A compact reformulation of the two-stage robust resource-constrained project scheduling problem](https://www.sciencedirect.com/science/article/pii/S0305054821000241). Matthew Bold, Marc Goerigk , 2021. Computers & Operations Research.
