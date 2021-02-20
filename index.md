@@ -2,6 +2,7 @@ I am a final year PhD researcher at the [STOR-i Centre for Doctoral Training](ht
 
 My research interests include **large-scale combinatorial optimisation**, **robust optimisation**, and **evolutionary algorithms**. In particular, a large part of my work has been in collaboration with Sellafield Ltd, focussing on the efficient construction of large-scale schedules for the decommissioning of the Sellafield nuclear site. 
 
+You can contact me at m.bold1@lancaster.ac.uk.
 
 ## Experience
 - **PhD Researcher**, Sellafield Ltd, 2018-Present
