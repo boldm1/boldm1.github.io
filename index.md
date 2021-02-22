@@ -16,7 +16,7 @@ You can contact me at m.bold1@lancaster.ac.uk.
 - **BSc in Mathematics**, University of Birmingham, 2017.
 
 ## Publications & Talks
-- [**A compact reformulation of the two-stage robust resource-constrained project scheduling problem**](https://www.sciencedirect.com/science/article/pii/S0305054821000241). Matthew Bold, Marc Goerigk , 2021. Computers & Operations Research.
+- [**A compact reformulation of the two-stage robust resource-constrained project scheduling problem**](https://www.sciencedirect.com/science/article/pii/S0305054821000241). Matthew Bold, Marc Goerigk, 2021. Computers & Operations Research.
 - [**Recoverable Robust Single Machine Scheduling with Budgeted Uncertainty**](https://arxiv.org/abs/2011.06284). Matthew Bold, Marc Goerigk. (Submitted)
 - [**The generalised resource-constrained project scheduling problem with flexible resource profiles**](https://pms2020.sciencesconf.org/resource/page/id/13). 17th International Workshop on Project Management and Scheduling, Toulouse, April 2020 (Postponed to April 2021).
 - **The generalised resource-constrained project scheduling problem with flexible resource profiles**. Matthew Bold, Burak Boyaci, Marc Goerigk, Chris Kirkbride. (Submitted)
