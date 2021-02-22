@@ -8,6 +8,7 @@ You can contact me at m.bold1@lancaster.ac.uk.
 - **PhD Researcher**, Sellafield Ltd, 2018-Present
 - **Graduate Teaching Assistant**, Lancaster University, 2018-Present
 - **Global Employer Services Intern**, Deloitte, 2017
+- **Mathematics Student Ambassador**, University of Birmingham, 2014-2017
 
 ## Education
 - **PhD in Statistics and Operational Research**, Lancaster University, 2021
